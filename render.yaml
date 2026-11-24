@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: transportation-gis-roadway-analytics-lab
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz
+    dockerfilePath: ./Dockerfile
