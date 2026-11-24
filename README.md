@@ -2,7 +2,7 @@
 
 Independent transportation geospatial engineering project. All roadway records are synthetic, reproducible and released under CC0-1.0. The original standalone demo is available in [prototype/index.html](prototype/index.html). Its schematic coordinates are separate from the lab's WGS84 fixture.
 
-[GitHub repository](https://github.com/hwen020/transportation-gis-lab)
+[GitHub repository](https://github.com/hwen020/transportation-gis-lab) · [Live demo](https://transportation-gis-roadway-analytics-lab.onrender.com)
 
 ## Development
 
